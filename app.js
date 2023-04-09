@@ -22,7 +22,7 @@ await client.data.creator()
     })
     .do();
 
-const test = Buffer.from(readFileSync('./test.jpg')).toString('base64');
+const test = Buffer.from(readFileSync('./test1.jpg')).toString('base64');
 
 const resImage = await client.graphql.get()
     .withClassName('Meme')
