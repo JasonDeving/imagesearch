@@ -2,7 +2,7 @@
 We use weaviat to create a simple image search engine. 
 
 I used the fireship tutorial on how to create weviate. His code incorrect. I used chatgpt to troubleshoot. 
-
+must install node
 must install docker. 
 
 command line to use.
